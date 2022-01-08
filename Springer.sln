@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Springer", "Springer\Springer.pyproj", "{CF7D0907-4AA7-4DE3-821F-77E34AB5A501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7D0907-4AA7-4DE3-821F-77E34AB5A501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7D0907-4AA7-4DE3-821F-77E34AB5A501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC942F2-BA42-40DA-A686-F8E35BAB4CF3}
+	EndGlobalSection
+EndGlobal
